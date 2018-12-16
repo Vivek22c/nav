@@ -4,3 +4,7 @@ we are learnong dev ops
 
 technologies
 jss, c, java, python
+
+naveen
+
+vivek
